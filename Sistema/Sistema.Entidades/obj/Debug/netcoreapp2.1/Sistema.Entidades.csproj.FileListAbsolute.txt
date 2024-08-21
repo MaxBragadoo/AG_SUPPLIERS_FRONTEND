@@ -1,0 +1,54 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csprojAssemblyReference.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.AssemblyReference.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.deps.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.CoreCompileInputs.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfoInputs.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.AssemblyInfo.cs
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Entidades\obj\Debug\netcoreapp2.1\Sistema.Entidades.csproj.AssemblyReference.cache

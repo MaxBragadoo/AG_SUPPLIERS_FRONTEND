@@ -1,0 +1,180 @@
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\ASP Net Core Vuejs\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csprojAssemblyReference.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Aplicaciones C# Web\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\NetCoreVue\SistemaControlAG\SistemaVentas2023\SistemaVentas2023\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\NetCoreVue\SistemaControlAG\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Aplicaciones C# Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.deps.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.runtimeconfig.dev.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.AssemblyReference.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CoreCompileInputs.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorAssemblyInfo.cs
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfoInputs.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.AssemblyInfo.cs
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.input.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.TagHelpers.output.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorCoreGenerate.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cache
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.RazorTargetAssemblyInfo.cs
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.Views.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.csproj.CopyComplete
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.dll
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.pdb
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Aplicaciones_CSharp_Web\00_Sistema_AG_Aviation_Suppliers_SLP\Sistema\Sistema.Web\obj\Debug\netcoreapp2.1\Sistema.Web.genruntimeconfig.cache
